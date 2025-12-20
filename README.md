@@ -4,7 +4,7 @@
 
 
 
-Made with :red_heart: in Portland, OR.
+Made with :heart: in Portland, OR.
 <!---
 betsyhcamp/betsyhcamp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
