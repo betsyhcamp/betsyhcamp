@@ -1,6 +1,38 @@
-- 👋 Hi, my name is Elizabeth Camp. Feel free to call me by my nickname, Betsy!
-- 👀 I’m interested in statistics and software engineering
-- 👩‍💻 I’m currently learning about Vertex AI pipelines (Kubeflow ML pipelines on Google Cloud Platform) and Terraform
+## 👋 Hi, my name is Elizabeth Camp. Feel free to call me by my nickname, Betsy!
+
+I’m a data scientist with about 7.5 years of industry experience building predictive models and ML pipelines with an emphasis on forecasting applications. I’m focused on end-to-end ML systems including reliable pipelines, reproducible model experimentation, cloud-native workflows, and maintainable Python tooling.
+
+My work sits at the intersection of applied modeling and ML engineering.
+
+### Featured Projects
+
+#### [`tsbricks`](https://github.com/betsyhcamp/tsbricks)
+Reusable Python tooling for time series forecasting workflows, backtesting, and forecast evaluation.
+
+**Themes:** forecasting, backtesting, evaluation, Python packaging, reusable ML tooling.
+
+#### [`copier-python-mlplatform`](https://github.com/betsyhcamp/copier-python-mlplatform)
+A Copier template for production-oriented Python, package, and ML pipeline projects.
+
+**Themes:** reproducible project setup, developer productivity, CI/CD, testing, linting, documentation, KFP scaffolding.
+
+#### [`nyc_taxi`](https://github.com/betsyhcamp/nyc_taxi)
+An early-stage cloud ML systems project for NYC taxi demand forecasting.
+
+Current focus: BigQuery extraction, containerized KFP components, GCS artifact management, and Vertex AI-oriented workflow design. Under active development.
+
+**Themes:** forecasting pipelines, BigQuery, GCS, Docker, KFP, Vertex AI, cloud ML workflows.
+
+### Current Focus
+
+- Predictive modeling systems and evaluation - with special attention to time series forecasting
+- Reusable Python packages for applied ML workflows
+- Cloud-native ML pipelines on GCP
+- Practical MLOps patterns for model experimentation, validation, observability, and deployment
+- Growing focus on GenAI/RAG systems, with emphasis on retrieval quality, evaluation, observability, and orchestration
+
+### Links
+- [LinkedIn](https://www.linkedin.com/in/elizabethhcamp/)
 
 
 <!---
