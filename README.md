@@ -19,7 +19,7 @@ A Copier template for production-oriented Python, package, and ML pipeline proje
 #### [`nyc_taxi`](https://github.com/betsyhcamp/nyc_taxi)
 An early-stage cloud ML systems project for NYC taxi demand forecasting.
 
-Current focus: BigQuery extraction, containerized KFP components, GCS artifact management, and Vertex AI-oriented workflow design. Under active development.
+Currently under active development featuring BigQuery extraction, containerized KFP components, GCS artifact management, and Vertex AI-oriented workflow design.
 
 **Themes:** forecasting pipelines, BigQuery, GCS, Docker, KFP, Vertex AI, cloud ML workflows.
 
