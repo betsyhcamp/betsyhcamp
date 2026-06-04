@@ -14,14 +14,14 @@ Reusable Python tooling for time series forecasting workflows, backtesting, and 
 #### [`copier-python-mlplatform`](https://github.com/betsyhcamp/copier-python-mlplatform)
 A Copier template for production-oriented Python, package, and ML pipeline projects.
 
-**Themes:** reproducible project setup, developer productivity, CI/CD, testing, linting, documentation, KFP scaffolding.
+**Themes:** reproducible project setup, developer productivity, CI/CD, testing, linting, Kubeflow Pipeline ML pipeline scaffolding.
 
 #### [`nyc_taxi`](https://github.com/betsyhcamp/nyc_taxi)
 An early-stage cloud ML systems project for NYC taxi demand forecasting.
 
 Currently under active development featuring BigQuery extraction, containerized KFP components, GCS artifact management, and Vertex AI-oriented workflow design.
 
-**Themes:** forecasting pipelines, BigQuery, GCS, Docker, KFP, Vertex AI, cloud ML workflows.
+**Themes:** forecasting pipelines, BigQuery, GCS, Docker, Kubeflow Pipelines, Vertex AI, cloud ML workflows.
 
 ### Current Focus
 
