@@ -14,7 +14,7 @@ Reusable Python tooling for time series forecasting workflows, backtesting, and 
 #### [`copier-python-mlplatform`](https://github.com/betsyhcamp/copier-python-mlplatform)
 A Copier template for production-oriented Python, package, and ML pipeline projects.
 
-**Themes:** reproducible project setup, developer productivity, CI/CD, testing, linting, Kubeflow Pipeline ML pipeline scaffolding.
+**Themes:** reproducible project setup, developer productivity, CI/CD, testing, linting, Kubeflow ML Pipeline (KFP) scaffolding.
 
 #### [`nyc_taxi`](https://github.com/betsyhcamp/nyc_taxi)
 An early-stage cloud ML systems project for NYC taxi demand forecasting.
