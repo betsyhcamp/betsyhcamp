@@ -25,7 +25,7 @@ Currently under active development featuring BigQuery extraction, containerized 
 
 ### Developer Tooling
 ---
-#### [xreview (cross-model-review-loop)](https://github.com/betsyhcamp/cross-model-review-loop)
+#### [`xreview` (cross-model-review-loop)](https://github.com/betsyhcamp/cross-model-review-loop)
 
 A Claude Code plugin that automates cross-model code review with Codex CLI. Supports structured review exchanges, human decisions on unresolved findings, and incremental implementation of approved changes.
 
