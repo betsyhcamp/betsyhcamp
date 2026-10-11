@@ -5,7 +5,7 @@ I’m a data scientist with about 7.5 years of industry experience building pred
 My work sits at the intersection of applied modeling and ML engineering.
 
 ### Featured Projects
-
+---
 #### [`tsbricks`](https://github.com/betsyhcamp/tsbricks)
 Reusable Python tooling for time series forecasting workflows, backtesting, and forecast evaluation.
 
@@ -23,8 +23,16 @@ Currently under active development featuring BigQuery extraction, containerized 
 
 **Themes:** forecasting pipelines, BigQuery, GCS, Docker, Kubeflow Pipelines, Vertex AI, cloud ML workflows.
 
-### Current Focus
+### Developer Tooling
+---
+#### [xreview (cross-model-review-loop)](https://github.com/betsyhcamp/cross-model-review-loop)
 
+A Claude Code plugin that automates cross-model code review with Codex CLI. Supports structured review exchanges, human decisions on unresolved findings, and incremental implementation of approved changes.
+
+**Themes:** AI-assisted software engineering, developer productivity, code review, human-in-the-loop workflows.
+
+### Current Focus
+---
 - Predictive modeling systems and evaluation - with special attention to time series forecasting
 - Reusable Python packages for applied ML workflows
 - Cloud-native ML pipelines on GCP
@@ -32,6 +40,7 @@ Currently under active development featuring BigQuery extraction, containerized 
 - Growing focus on GenAI/RAG systems, with emphasis on retrieval quality, evaluation, observability, and orchestration
 
 ### Links
+---
 - [LinkedIn](https://www.linkedin.com/in/elizabethhcamp/)
 
 
