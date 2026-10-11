@@ -1,6 +1,6 @@
 ## 👋 Hi, my name is Elizabeth Camp. Feel free to call me by my nickname, Betsy!
 
-I’m a data scientist with about 7.5 years of industry experience building predictive models and ML pipelines with an emphasis on forecasting applications. I’m focused on end-to-end ML systems including reliable pipelines, reproducible model experimentation, cloud-native workflows, and maintainable Python tooling.
+I’m a data scientist with about 8 years of industry experience building predictive models and ML pipelines with an emphasis on forecasting applications. I’m focused on end-to-end ML systems including reliable pipelines, reproducible model experimentation, cloud-native workflows, and maintainable Python tooling.
 
 My work sits at the intersection of applied modeling and ML engineering.
 
