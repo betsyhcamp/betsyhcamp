@@ -25,11 +25,10 @@ Currently under active development featuring BigQuery extraction, containerized 
 
 ### Developer Tooling
 ---
-#### [`xreview` (cross-model-review-loop)](https://github.com/betsyhcamp/cross-model-review-loop)
+#### [`xreview`](https://github.com/betsyhcamp/xreview)
+A Claude Code plugin that orchestrates Claude-Codex code review loops, preserves an auditable record of decisions, and implements approved fixes through incremental commits followed by test suite execution.
 
-A Claude Code plugin that automates cross-model code review with Codex CLI. Supports structured review exchanges, human decisions on unresolved findings, and incremental implementation of approved changes.
-
-**Themes:** AI-assisted software engineering, developer productivity, code review, human-in-the-loop workflows.
+Themes: multi-agent orchestration, AI assisted software engineering, code quality, human-in-the-loop workflows.
 
 ### Current Focus
 ---
